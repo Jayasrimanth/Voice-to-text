@@ -286,3 +286,6 @@ For issues and questions:
 
 **Note**: This project is provided as-is for educational and development purposes. Please ensure you comply with Groq's API terms of service when using their services.
 # Voice-to-text
+<div align="center">
+  <video src="(https://drive.google.com/file/d/15cCnr-fK_AL_fY3qcK6LCHdVTtLVHDj-/view?usp=sharing)" width="600" controls></video>
+</div>
